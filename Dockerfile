@@ -38,4 +38,4 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONPATH=/app
 
 # Command to run the MCP server
-CMD ["uv", "run", "server.py"]
+CMD ["yahoo-finance-mcp"]
